@@ -1,5 +1,5 @@
 # DICOM to video
-[![Build Status](https://travis-ci.com/andreoss/dicom.svg?branch=master)](https://travis-ci.com/andreoss/dicom)
+[![linters](https://github.com/andreoss/dicom/actions/workflows/linters.yml/badge.svg)](https://github.com/andreoss/dicom/actions/workflows/linters.yml)
 
 Convert [DICOM](https://en.wikipedia.org/wiki/DICOM) files such as magnetic resonance and computer tomography images, fluoroscopy and ultrasound images to a video file.
 
